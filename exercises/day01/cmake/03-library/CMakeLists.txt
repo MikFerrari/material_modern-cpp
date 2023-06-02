@@ -22,7 +22,7 @@ project(
   DESCRIPTION "An example project with CMake for Modern C++"
   LANGUAGES CXX)
 
-include(../../../shared/CMakeOptions.cmake)
+include(../../../shared/CMakeOptions.cmake) # utility file that sets default options if not specified by the user
 
 # https://cmake.org/cmake/help/latest/command/message.html
 # we just print some variables

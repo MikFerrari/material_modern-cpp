@@ -15,7 +15,7 @@ endif()
 
 # impose c++ standard to be strict c++98. so far you cannot override it
 set(CMAKE_CXX_EXTENSIONS OFF)
-set(CMAKE_CXX_STANDARD 98)
+set(CMAKE_CXX_STANDARD 98) # set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # add a single file
