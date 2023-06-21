@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspace/material_modern-cpp/exercises/day02/cpp98",
-      "program": "/workspace/material_modern-cpp/exercises/day02/cpp98/build/Debug/outDebug",
+      "cwd": "/workspace/material_modern-cpp/exercises/day06",
+      "program": "/workspace/material_modern-cpp/exercises/day06/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
